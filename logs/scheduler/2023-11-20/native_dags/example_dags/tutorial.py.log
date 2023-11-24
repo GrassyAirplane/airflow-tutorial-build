@@ -1,0 +1,11 @@
+[2023-11-20T18:27:12.772+0800] {processor.py:157} INFO - Started process (PID=22817) to work on /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-11-20T18:27:12.773+0800] {processor.py:829} INFO - Processing file /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-11-20T18:27:12.773+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:27:12.773+0800] {dagbag.py:536} INFO - Filling up the DagBag from /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-11-20T18:27:12.803+0800] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-11-20T18:27:13.629+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:27:13.628+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:27:13.640+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:27:13.640+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:27:13.648+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:27:13.648+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:27:13.649+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:27:13.648+0800] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T18:27:13.660+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:27:13.659+0800] {dag.py:2963} INFO - Creating ORM DAG for tutorial
+[2023-11-20T18:27:13.668+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:27:13.668+0800] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-19T10:27:13.667955+00:00, run_after=2023-11-20T10:27:13.667955+00:00
+[2023-11-20T18:27:13.686+0800] {processor.py:179} INFO - Processing /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.915 seconds

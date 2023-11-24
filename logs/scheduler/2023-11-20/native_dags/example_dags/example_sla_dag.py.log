@@ -1,0 +1,11 @@
+[2023-11-20T18:27:43.006+0800] {processor.py:157} INFO - Started process (PID=22909) to work on /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-11-20T18:27:43.007+0800] {processor.py:829} INFO - Processing file /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-11-20T18:27:43.007+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:27:43.007+0800] {dagbag.py:536} INFO - Filling up the DagBag from /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-11-20T18:27:43.072+0800] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-11-20T18:27:44.090+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:27:44.090+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:27:44.102+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:27:44.102+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:27:44.109+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:27:44.109+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:27:44.110+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:27:44.109+0800] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T18:27:44.121+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:27:44.121+0800] {dag.py:2963} INFO - Creating ORM DAG for example_sla_dag
+[2023-11-20T18:27:44.133+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:27:44.132+0800] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2023-11-20T10:24:00+00:00, run_after=2023-11-20T10:26:00+00:00
+[2023-11-20T18:27:44.150+0800] {processor.py:179} INFO - Processing /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 1.145 seconds

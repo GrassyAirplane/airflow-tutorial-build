@@ -1,0 +1,36 @@
+[2023-11-20T18:28:48.631+0800] {processor.py:157} INFO - Started process (PID=23095) to work on /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/example_datasets.py
+[2023-11-20T18:28:48.632+0800] {processor.py:829} INFO - Processing file /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/example_datasets.py for tasks to queue
+[2023-11-20T18:28:48.632+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:48.632+0800] {dagbag.py:536} INFO - Filling up the DagBag from /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/example_datasets.py
+[2023-11-20T18:28:48.682+0800] {processor.py:839} INFO - DAG(s) dict_keys(['dataset_consumes_1_never_scheduled', 'dataset_produces_1', 'dataset_consumes_1_and_2', 'dataset_produces_2', 'dataset_consumes_unknown_never_scheduled', 'dataset_consumes_1']) retrieved from /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/example_datasets.py
+[2023-11-20T18:28:49.618+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:49.618+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:28:49.628+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:49.628+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:28:49.636+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:49.636+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:28:49.650+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:49.650+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:28:49.658+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:49.657+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:28:49.665+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:49.664+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:28:49.678+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:49.678+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:28:49.685+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:49.685+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:28:49.692+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:49.691+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:28:49.704+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:49.704+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:28:49.711+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:49.711+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:28:49.718+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:49.718+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:28:49.731+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:49.731+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:28:49.738+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:49.737+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:28:49.744+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:49.744+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:28:49.758+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:49.758+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:28:49.765+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:49.764+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:28:49.771+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:49.771+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:28:49.772+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:49.771+0800] {dag.py:2941} INFO - Sync 6 DAGs
+[2023-11-20T18:28:49.782+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:49.782+0800] {dag.py:2963} INFO - Creating ORM DAG for dataset_consumes_unknown_never_scheduled
+[2023-11-20T18:28:49.783+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:49.783+0800] {dag.py:2963} INFO - Creating ORM DAG for dataset_consumes_1
+[2023-11-20T18:28:49.784+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:49.783+0800] {dag.py:2963} INFO - Creating ORM DAG for dataset_consumes_1_and_2
+[2023-11-20T18:28:49.784+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:49.784+0800] {dag.py:2963} INFO - Creating ORM DAG for dataset_consumes_1_never_scheduled
+[2023-11-20T18:28:49.785+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:49.784+0800] {dag.py:2963} INFO - Creating ORM DAG for dataset_produces_1
+[2023-11-20T18:28:49.785+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:49.785+0800] {dag.py:2963} INFO - Creating ORM DAG for dataset_produces_2
+[2023-11-20T18:28:49.793+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:49.793+0800] {dag.py:3722} INFO - Setting next_dagrun for dataset_consumes_1 to None, run_after=None
+[2023-11-20T18:28:49.794+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:49.794+0800] {dag.py:3722} INFO - Setting next_dagrun for dataset_consumes_1_and_2 to None, run_after=None
+[2023-11-20T18:28:49.794+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:49.794+0800] {dag.py:3722} INFO - Setting next_dagrun for dataset_consumes_1_never_scheduled to None, run_after=None
+[2023-11-20T18:28:49.795+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:49.795+0800] {dag.py:3722} INFO - Setting next_dagrun for dataset_consumes_unknown_never_scheduled to None, run_after=None
+[2023-11-20T18:28:49.797+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:49.797+0800] {dag.py:3722} INFO - Setting next_dagrun for dataset_produces_1 to 2023-11-19T00:00:00+00:00, run_after=2023-11-20T00:00:00+00:00
+[2023-11-20T18:28:49.798+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:49.798+0800] {dag.py:3722} INFO - Setting next_dagrun for dataset_produces_2 to None, run_after=None
+[2023-11-20T18:28:49.831+0800] {processor.py:179} INFO - Processing /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/example_datasets.py took 1.201 seconds

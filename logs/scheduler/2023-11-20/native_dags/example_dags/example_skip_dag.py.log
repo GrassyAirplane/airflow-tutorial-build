@@ -1,0 +1,11 @@
+[2023-11-20T18:27:46.546+0800] {processor.py:157} INFO - Started process (PID=22921) to work on /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-11-20T18:27:46.547+0800] {processor.py:829} INFO - Processing file /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-11-20T18:27:46.547+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:27:46.547+0800] {dagbag.py:536} INFO - Filling up the DagBag from /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-11-20T18:27:46.578+0800] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-11-20T18:27:47.479+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:27:47.479+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:27:47.490+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:27:47.490+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:27:47.499+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:27:47.498+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:27:47.499+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:27:47.499+0800] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T18:27:47.511+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:27:47.511+0800] {dag.py:2963} INFO - Creating ORM DAG for example_skip_dag
+[2023-11-20T18:27:47.520+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:27:47.520+0800] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-11-19T10:27:47.520213+00:00, run_after=2023-11-20T10:27:47.520213+00:00
+[2023-11-20T18:27:47.537+0800] {processor.py:179} INFO - Processing /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.992 seconds

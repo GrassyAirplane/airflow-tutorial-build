@@ -1,0 +1,11 @@
+[2023-11-20T18:28:29.098+0800] {processor.py:157} INFO - Started process (PID=23036) to work on /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2023-11-20T18:28:29.098+0800] {processor.py:829} INFO - Processing file /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2023-11-20T18:28:29.099+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:29.099+0800] {dagbag.py:536} INFO - Filling up the DagBag from /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2023-11-20T18:28:29.136+0800] {processor.py:839} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2023-11-20T18:28:29.887+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:29.886+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:28:29.899+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:29.899+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:28:29.906+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:29.905+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:28:29.906+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:29.906+0800] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T18:28:29.918+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:29.918+0800] {dag.py:2963} INFO - Creating ORM DAG for latest_only_with_trigger
+[2023-11-20T18:28:29.927+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:29.927+0800] {dag.py:3722} INFO - Setting next_dagrun for latest_only_with_trigger to 2023-11-20T06:28:29.927171+00:00, run_after=2023-11-20T10:28:29.927171+00:00
+[2023-11-20T18:28:29.945+0800] {processor.py:179} INFO - Processing /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.848 seconds

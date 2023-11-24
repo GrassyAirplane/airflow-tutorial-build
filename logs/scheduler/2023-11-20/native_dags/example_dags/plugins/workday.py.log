@@ -1,0 +1,6 @@
+[2023-11-20T18:26:54.606+0800] {processor.py:157} INFO - Started process (PID=22761) to work on /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T18:26:54.607+0800] {processor.py:829} INFO - Processing file /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-11-20T18:26:54.608+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:26:54.608+0800] {dagbag.py:536} INFO - Filling up the DagBag from /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T18:26:54.610+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:26:54.609+0800] {workday.py:36} WARNING - Could not import pandas. Holidays will not be considered.
+[2023-11-20T18:26:54.610+0800] {processor.py:841} WARNING - No viable dags retrieved from /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-11-20T18:26:54.814+0800] {processor.py:179} INFO - Processing /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.208 seconds

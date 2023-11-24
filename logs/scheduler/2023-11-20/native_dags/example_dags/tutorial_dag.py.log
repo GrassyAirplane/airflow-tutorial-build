@@ -1,0 +1,11 @@
+[2023-11-20T18:27:09.254+0800] {processor.py:157} INFO - Started process (PID=22805) to work on /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-20T18:27:09.254+0800] {processor.py:829} INFO - Processing file /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-20T18:27:09.255+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:27:09.255+0800] {dagbag.py:536} INFO - Filling up the DagBag from /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-20T18:27:09.296+0800] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-20T18:27:10.102+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:27:10.102+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:27:10.110+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:27:10.110+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:27:10.116+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:27:10.116+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:27:10.116+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:27:10.116+0800] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T18:27:10.126+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:27:10.125+0800] {dag.py:2963} INFO - Creating ORM DAG for tutorial_dag
+[2023-11-20T18:27:10.126+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:27:10.126+0800] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-20T18:27:10.143+0800] {processor.py:179} INFO - Processing /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.889 seconds

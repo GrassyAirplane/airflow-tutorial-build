@@ -1,0 +1,11 @@
+[2023-11-20T18:28:27.111+0800] {processor.py:157} INFO - Started process (PID=23031) to work on /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-11-20T18:28:27.111+0800] {processor.py:829} INFO - Processing file /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-11-20T18:28:27.112+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:27.112+0800] {dagbag.py:536} INFO - Filling up the DagBag from /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-11-20T18:28:27.176+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:27.175+0800] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-11-20T18:28:27.176+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:27.176+0800] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-11-20T18:28:27.176+0800] {processor.py:841} WARNING - No viable dags retrieved from /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-11-20T18:28:27.303+0800] {processor.py:179} INFO - Processing /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.194 seconds

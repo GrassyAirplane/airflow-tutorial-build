@@ -1,0 +1,11 @@
+[2023-11-20T18:28:09.837+0800] {processor.py:157} INFO - Started process (PID=22987) to work on /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-20T18:28:09.838+0800] {processor.py:829} INFO - Processing file /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-11-20T18:28:09.839+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:09.839+0800] {dagbag.py:536} INFO - Filling up the DagBag from /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-20T18:28:09.920+0800] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-11-20T18:28:10.609+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:10.609+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:28:10.619+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:10.619+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:28:10.625+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:10.625+0800] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-20T18:28:10.625+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:10.625+0800] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-20T18:28:10.637+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:10.636+0800] {dag.py:2963} INFO - Creating ORM DAG for example_python_operator
+[2023-11-20T18:28:10.637+0800] {logging_mixin.py:154} INFO - [2023-11-20T18:28:10.637+0800] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-11-20T18:28:10.655+0800] {processor.py:179} INFO - Processing /Users/eulim/Desktop/moneylion/myrepo/de-dbt-analytics/venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.819 seconds
